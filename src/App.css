@@ -1,0 +1,83 @@
+ul#head li{
+  text-align: center;
+  color:rgb(106, 110, 47);
+  display: inline;
+  list-style: none;
+  font-size: 25pt;
+  font-weight: bold;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  vertical-align: middle;
+}
+
+.logo{
+  vertical-align: middle;
+}
+
+.atas, .footer{
+  background-color:rgb(200, 221, 105);
+  display:inline-block;
+  width: 100%;
+}
+
+.tengah{
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+  display: inline-block;
+  text-align: center;
+  font-family: arial;
+  list-style: none;
+  padding:5%;
+}
+
+.sub-judul{
+  padding-left: 5%;
+}
+
+#color{
+  text-align: left;
+}
+
+#price{
+  text-align: center;
+  color: red;
+}
+
+.price{
+  color:red;
+}
+
+.label{
+  text-align: center;
+  color:rgb(43, 38, 38);
+}
+
+button{
+  background-color: rgb(70, 100, 64);
+  font-size: 18px;
+  color: white;
+  border: 0px;
+  border-radius: 3%;
+}
+
+button:hover{
+  box-shadow: 0px 5px 7px #888888;
+}
+
+button:active{
+  box-shadow: 0 0 0 0;
+}
+
+h4{
+  text-align: center;
+  font-weight: normal;
+}
+
+.chart{
+  padding-left: 90%;
+  vertical-align: middle;
+}

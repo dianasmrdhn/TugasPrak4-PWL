@@ -1,0 +1,67 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "tiffany",
+    "name": "Kopi Nusantara Pilihan Kita",
+    "jenis": "Kopi Bali",
+    "price": "20.000",
+    "priceCurrency": "IDR",
+    "image":"https://ecs7.tokopedia.net/img/cache/700/product-1/2018/8/10/9395191/9395191_18c9bbb7-e732-4360-aa13-15934f0b8009_2048_2048.jpg",
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "15.000",
+      "highPrice": "15.000",
+      "priceCurrency": "IDR",
+      "offerCount": "5",
+      "offers": [
+        {
+          "@type": "Offer",
+          "jenis": "Kopi Aceh",
+          "price": "Rp. 15.000",
+          "priceCurrency": "IDR",
+          "image":"https://s3.bukalapak.com/img/8059502275/w-1000/Kopi_Arabica_Aceh_Gayo_250GR_Tagetto_Coffee.jpg",
+          "availability": "https://schema.org/OutOfStock"
+        },
+        {
+          "@type": "Offer",
+          "jenis": "Kopi Lampung",
+          "price": "25.000",
+          "priceCurrency": "IDR",
+          "image": "https://th.bing.com/th/id/OIP.tTQgdkK1Q-YTnje7Piwl1gHaHa?w=187&h=187&c=7&o=5&pid=1.7",
+          "availability": "https://schema.org/OutOfStock"
+        },
+        {
+          "@type": "Offer",
+          "jenis": "Kopi Padang",
+          "price": "25.000",
+          "priceCurrency": "IDR",
+          "image": "https://th.bing.com/th/id/OIP.eYXQAV1tctLqxIZ64AVf1gHaHa?w=203&h=203&c=7&o=5&pid=1.7",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "jenis": "Kopi Papua",
+          "price": "50.000",
+          "priceCurrency": "IDR",
+          "image": "https://www.sentrakopi.com/wp-content/uploads/2017/11/arabika-papua-wamena-1kg-2.jpg",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "jenis": "Kopi Jawa",
+          "price": "30.000",
+          "priceCurrency": "IDR",
+          "image": "https://cf.shopee.co.id/file/eb31063279fcdfe5b6c3eb87ffdfc5b3",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "jenis": "Kopi Kalimantan ",
+          "price": "30.000",
+          "priceCurrency": "IDR",
+          "image": "https://th.bing.com/th/id/OIP.YphYoyMXUksZDUprIKz9wAHaHa?w=195&h=195&c=7&o=5&pid=1.7",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+    }
+  }
